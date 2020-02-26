@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_tap1"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/tap1" />
+
+    <item
+        android:id="@+id/navigation_tap2"
+        android:icon="@drawable/ic_language_black_24dp"
+        android:title="@string/tap2"
+        />
+
+    <item
+        android:id="@+id/navigation_tap3"
+        android:icon="@drawable/ic_book_black_24dp"
+        android:title="@string/tap3" />
+
+    <item
+        android:id="@+id/navigation_tap4"
+        android:icon="@drawable/ic_person_outline_black_24dp"
+        android:title="@string/tap4" />
+
+</menu>

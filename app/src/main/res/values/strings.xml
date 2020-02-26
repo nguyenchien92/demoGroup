@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tabTest2</string>
+    <string name="tap1">Tap1</string>
+    <string name="tap2">Tap2</string>
+    <string name="tap3">Tap3</string>
+    <string name="tap4">Tap4</string>
+</resources>
